@@ -1,0 +1,83 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.first_nav {
+    padding-bottom: 10px;
+}
+
+.logo {
+    margin-left: 10px;
+    margin-top: 15px;
+    width: 38%;
+}
+
+.shopbag {
+    margin-left: 10px;
+    margin-top: 15px;
+    margin-right: 15px;
+    float: right;
+    
+}
+
+.hamburger {
+    margin-left: 14px;
+    margin-right: 17px;
+    margin-top: 16px;
+    float: right;
+}
+
+.line_break {
+    border-top: 1px solid black;
+    width: 100%;
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
+
+.second_nav {
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+
+.quick_link {
+    color:
+    rgb(112, 35, 240);
+    border-right: 2px solid
+    rgb(0, 0, 0);
+    padding-bottom: 15px;
+    padding-top: 15px;
+    font-size: 0.875rem;
+    height: 100%;
+    padding-right: 58px;
+    padding-left: 20px;
+}
+
+#quick_link_right {
+    border-right: none;
+    color:
+    rgb(112, 35, 240);
+    font-size: 0.875rem;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+
+
+font-weight: bold;
+    color:
+    rgb(112, 35, 240);
+    text-decoration: none;
+    font-size: 0.875rem;
+    width: 33.33%;
+    height: 100%;
+    -moz-box-align: center;
+    align-items: center;
+    -moz-box-pack: center;
+    justify-content: center;
+    border-right: 2px solid
+    rgb(0, 0, 0);
+    border-bottom: 2px solid
+    rgb(0, 0, 0);
