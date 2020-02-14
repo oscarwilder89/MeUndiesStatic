@@ -54,7 +54,8 @@ body{
     border-right: 1px solid black;
     padding-top: 16px;
     padding-bottom: 16px;
-    padding-right: 40px;
+    padding-right: 45px;
+    padding-left: 25px;
     font-weight: bold;
     color:
     rgb(112, 35, 240);
@@ -67,6 +68,7 @@ body{
     background-color: white;
     border: none;
     padding-right: 0px;
+    padding-left: 0px;
     font-weight: bold;
     color:
     rgb(112, 35, 240);
@@ -74,35 +76,13 @@ body{
     font-size: 0.875rem;
 }
 
-.quick_link {
-    color:
-    rgb(112, 35, 240);
-    border-right: 2px solid
-    rgb(0, 0, 0);
-    padding-bottom: 15px;
-    padding-top: 15px;
-    font-size: 0.875rem;
-    height: 100%;
-    padding-right: 25px;
-    padding-left: 25px;
-    font-weight: bold;
-}
-
-#quick_link_right {
-    border-right: none;
-    color:
-    rgb(112, 35, 240);
-    font-size: 0.875rem;
-    padding-bottom: 15px;
-    padding-top: 15px;
-    font-weight: bold;
-    
-}
-
-
-.hero_image {
+.background_color {
+    background-color: #e0708f;
     width: 100%;
+    height: 350px;
 }
+
+
 
 .main_landing {
     display: flex;
@@ -111,8 +91,10 @@ body{
 
 .match_me {
     position: absolute;
-    top: 200px;
+    top: 220px;
 }
+
+
 
 
 
